@@ -10,4 +10,5 @@ A chapter-by-chapter summary of the book *The Pragmatic Programmer*.
 - [Chapter 4: Pragmatic Paranoia](./chapter-4.md)
 - [Chapter 5: Bend, or Break](./chapter-5.md)
 - [Chapter 6: Concurrency](./chapter-6.md)
+- [Chapter 7: While You Are Coding](./chapter-7.md)
 - ...
