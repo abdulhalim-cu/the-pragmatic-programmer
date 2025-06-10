@@ -12,4 +12,5 @@ A chapter-by-chapter summary of the book *The Pragmatic Programmer*.
 - [Chapter 6: Concurrency](./chapter-6.md)
 - [Chapter 7: While You Are Coding](./chapter-7.md)
 - [Chapter 8: Pragmatic Projects](./chapter-8.md)
+- [Chapter 9: Pragmatic Projects](./chapter-9.md)
 - ...
